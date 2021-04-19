@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ I'm Computer Science Student 
 -->
-Computer Science Undergraduate Student with some python, C++ and OOP knowledge at University of Engineering & Technology ⚡ | Microsoft Certified Innovative Educator ⚡ | Ambassador at UET Technical Symposiums'21 ⚡ | Community Member @AWS and @MLSA ⚡ | Currently learning Web Development, Java and Node.js 🌱 | Looking to collaborate on Web Developers 👯 | Reach me at https://github.com/SadiaSadiq10 📫 
+Computer Science Undergraduate Student with some python, C++ and OOP knowledge at University of Engineering & Technology ⚡ | Microsoft Certified Innovative Educator 🔭 | Ambassador at UET Technical Symposiums'21 🌱 | Community Member @AWS and @MLSA ⚡ | Currently learning Web Development, Java and Node.js 🌱 | Looking to collaborate on Web Developers 👯 | Reach me at https://github.com/SadiaSadiq10 📫 
